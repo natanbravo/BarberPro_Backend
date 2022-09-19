@@ -1,7 +1,7 @@
 {
     "workbench.colorCustomizations": {
-        "activityBar.background": "#500014",
-        "titleBar.activeBackground": "#500014",
+        "activityBar.background": "#3e0013",
+        "titleBar.activeBackground": "#3e0013",
         "titleBar.activeForeground": "#F3FBFC"
     },
     "editor.fontFamily": " Fira Code"
